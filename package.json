@@ -1,0 +1,11 @@
+{
+  "name": "1itf_2026_2027_webdesign_essentials_extra",
+  "version": "1.0.0",
+  "description": "Extra voorbeelden Web Essentials 1WT (2026 - 2027)",
+  "main": "index.js",
+  "scripts": {
+    "watch": "live-server --port=3350"
+  },
+  "author": "",
+  "license": "ISC"
+}
